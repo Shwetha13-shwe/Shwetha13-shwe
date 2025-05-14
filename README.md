@@ -19,9 +19,7 @@
   <a href="https://www.linkedin.com/in/shwetha-bs-227984316" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://mastodon.social/@ShwethaBS" target="_blank">
-    <img src="https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white" />
-  </a>
+ 
   <a href="mailto:Shwethabs200400@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
@@ -30,7 +28,7 @@
 ---
 
 <h3 align="center">💻 Tech Stack</h3>
-<p align="center">
+<p >
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&
