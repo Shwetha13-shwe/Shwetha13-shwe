@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Shwetha! 👋
 
 # 💫 About Me:
 <br>I am a Passoinate software developer with expertise in Java programming, HTML,CSS,JavaScript  ,Reactjs and MySQL. Proficient in<br> building and maintaining efficient, scalable applications while ensuring responsive and visually appealing web interfaces.<br><br>:- Passionate about building full-stack applications using modern technologies.<br>:- Skilled in Java , Spring Boot, MySQL and Reactjs<br>:- Always eager to learn and contribute to open-source projects
